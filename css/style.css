@@ -163,9 +163,10 @@ ul{
 /* Header-part */
 header {
   width: 100%;
-  position: absolute;
+  position: fixed;
   padding: 20px;
   background-color: #eef3ff;
+  box-shadow: 0px 1px 5px #5b5b5b91;
   text-transform: capitalize;
   z-index: 9999999;
 }
